@@ -8,5 +8,11 @@
       "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
     }
   ],
-  "users": []
+  "users": [
+    {
+      "email": "kamil@o2.pl",
+      "password": "$2a$12$YSqtpDWMeMGKs/tcGSimMe9pd6fwKxNZGHomzuSnN.QDJ.bsXTgei",
+      "id": "3a34ccff-5ea7-4b61-9c81-6e6cdf3fe26e"
+    }
+  ]
 }
